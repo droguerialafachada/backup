@@ -1,5 +1,3 @@
-eliminado,id,fecha_creacion,cedula,nombre,correo,direccion
-true,1,2025-03-12T06:39:07.246,1111,juan,juan@gmail.com,Armenia
-true,2,2025-03-15T12:08:25.220,1111111,CONSUMIDOR FINAL,consumidor@final.com,ARMENIA
-false,3,2025-03-15T12:12:19.187,1X,CONSUMIDOR FINAL,consumidor@final.com,ARMENIA
-true,4,2025-04-20T19:12:37.177,123456789,arias,arias@gmail.com,Filandia
+id,cedula,correo,direccion,eliminado,fecha_creacion,nombre
+1,123456789,prueba@gmail.com,Armenia,false,2026-09-20T16:31:30.708,Prueba
+2,222222222222,consumidor@final.com,Armenia,false,2026-09-20T16:35:10.106,Consumidor Final
