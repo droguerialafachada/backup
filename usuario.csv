@@ -1,3 +1,7 @@
-id,nombre,contrasenia
-1,droguerialafachada@gmail.com,$2a$04$bNf1nf9NWXd6pjT.c3j8LuaCPNe6Qmf99DMItYr3N4.GGkvYc3JAm
-2,admin@gmail.com,$2a$10$CeUnnp6f.xXPQEG2sdUSU.fKZjaC.ziY.9Y5su4Pif/pZQlPQNtQq
+id,activo,contrasenia,email,foto,nombre
+1,true,$2a$10$bM1pQA/sT79.xf1thB9tYOkvlL1zrIT2jE7OOkhp4SIAadnKLKJJS,admin@gmail.com,null,admin
+2,true,$2a$10$3iC.3/8MYUd2V6zUy372meAOoQIafZwPeyGQhSUozKXg0p42H1k9O,user@gmail.com,null,user
+3,true,$2a$10$4aJ.LpR3/SfLMigKK4YIqebq8FIgDM7t0mfEE2QwDFKI/GdQ1lcEC,danielbuitrago1777@gmail.com,null,Daniel
+4,true,$2a$10$yU0RLd2sDCu3zf.R1jlOU.dEuAi.W8n3PqwoATMjYYhBtDX/g5B5W,lunagiraldogomezz@gmail.com,null,Luna Giraldo
+5,true,$2a$10$rPdpw817klclwH.XFY/Diuohnpu6TsHG/wSLcmZq7eMWOMHBlecmW,alcidesgiraldoduque@gmail.com,null,Alcides Duque 
+6,true,$2a$10$ikAjWR.7zZfHQm0DITJCTuwSj8fOkYnIO5vLHf7H3NiWsquSz7e7i,mariaferceballos5@gmail.com,null,Fernanda Duque
